@@ -1,6 +1,6 @@
-### Spotify - Dataset_analytic
+# Spotify - Dataset_analytic
 
-# Myself:
+### Myself:
 Before showing my analysis, i'd like to introduce myself and talk a little bit about me.
 My name is Bruno Birello, i'm studying for be a Data analysis / Data engineering / Data Science, with so, 
 nothing better than show my current situation with my studies than sharing it.
@@ -8,7 +8,7 @@ I'm not into music, but i listen to it, that's important.
 
 I hope you like it!
 
-# About the repository:
+### About the repository:
 This dataset from kaggle.com shows us a chart with more than 6.000 songs, with their key notes, modes, streaming counts, etc.
 Some info before you start our analysis. 
 
@@ -18,7 +18,7 @@ with that's set. let's see our results.
 
 Before showing the dashboard, first that i'll share this sheet but it'll be lock.
 
-# Analysis:
+### Analysis:
 ![image](https://github.com/BrunoBirello/Spotify-Dataset_Analytics/assets/123588649/d55cafeb-9778-4e47-a36d-6cd7831bf59f)
 
 What can we see:
